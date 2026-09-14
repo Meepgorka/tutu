@@ -1,6 +1,0 @@
-//Учебная программа
-//#include "sdt.h"
-#include <iostream>
-	std::cout << "Proizvedenie: " << a * b << '\n';
-	std::cout << "Chastnoe: " << a / b << '\n';
-	}
