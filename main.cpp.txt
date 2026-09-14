@@ -7,4 +7,5 @@ int main(){
 	std::cin>>a>>b;
 	std::cout<<"Summa: "<<a+b<<'\n';
 	std::cout<<"Raznost': "<<a-b<<'\n';
+	std::cout << "Chastnoe: " << a / b << '\n';
 	}
