@@ -1,2 +1,7 @@
 #include "sdt.h"
-int main(){}
+#include <iostream>
+int main(){
+	short a,b;
+	std::cout<<"Vvedite a,b: ";
+	std::cin>>a>>b;
+	}
