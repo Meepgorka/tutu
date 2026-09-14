@@ -4,4 +4,6 @@ int main(){
 	short a,b;
 	std::cout<<"Vvedite a,b: ";
 	std::cin>>a>>b;
+	std::cout<<"Summa: "<<a+b<<'\n';
+	
 	}
