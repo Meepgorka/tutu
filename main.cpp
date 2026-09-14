@@ -11,4 +11,5 @@ int main() {
     std::cout << "A-B=" << a - b << '\n';
     std::cout << "Proizvedenie: " << a * b << '\n';
     std::cout << "Chastnoe: " << a / b << '\n';
+    return 0;
 }
