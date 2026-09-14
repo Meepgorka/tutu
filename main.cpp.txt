@@ -1,3 +1,4 @@
+//Учебная программа
 #include "sdt.h"
 #include <iostream>
 int main(){
