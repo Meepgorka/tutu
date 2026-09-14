@@ -1,12 +1,6 @@
 //Учебная программа
 //#include "sdt.h"
 #include <iostream>
-int main() {
-	short a, b;
-	std::cout << "Vvedite a,b: ";
-	std::cin >> a>>b;
-	std::cout << "Summa: " << a + b << '\n';
-	std::cout << "Raznost': " << a - b << '\n';
 	std::cout << "Proizvedenie: " << a * b << '\n';
-	return 0;
-}
+	std::cout << "Chastnoe: " << a / b << '\n';
+	}
